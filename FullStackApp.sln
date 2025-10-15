@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FullStack.Data", "FullStack.Data\FullStack.Data.csproj", "{33AD7EE0-D5D3-4CCC-8888-EEEECCD51CF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FullStack.Api", "FullStack.Api\FullStack.Api.csproj", "{352D3C4B-6643-40A5-A288-32E34F7DAB15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33AD7EE0-D5D3-4CCC-8888-EEEECCD51CF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33AD7EE0-D5D3-4CCC-8888-EEEECCD51CF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33AD7EE0-D5D3-4CCC-8888-EEEECCD51CF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33AD7EE0-D5D3-4CCC-8888-EEEECCD51CF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{352D3C4B-6643-40A5-A288-32E34F7DAB15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{352D3C4B-6643-40A5-A288-32E34F7DAB15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{352D3C4B-6643-40A5-A288-32E34F7DAB15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{352D3C4B-6643-40A5-A288-32E34F7DAB15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B9183F2-156C-426C-8601-4C8D6419B9C3}
+	EndGlobalSection
+EndGlobal

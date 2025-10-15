@@ -1,0 +1,6 @@
+@FullStack.Apu_HostAddress = http://localhost:5246
+
+GET {{FullStack.Apu_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
